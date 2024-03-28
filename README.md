@@ -1,4 +1,4 @@
-# kafka
+# Kafka service
 
 Start the docker container:
 ```python
